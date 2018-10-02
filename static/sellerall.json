@@ -1,0 +1,120 @@
+{
+    "coded": 1,
+    "Vegetables": [
+      {
+        "id": "0001",
+        "imgUrl": "//img.alicdn.com/simba/img/TB1GHnCd6TpK1RjSZKPSuu3UpXa.jpg_270x270Q75s50.jpg_.webp",
+        "name": "国有超市",
+        "fraction": 4,
+        "monthlySale": 123,
+        "chargingFee": "50",
+        "distributionFee": "0",
+        "category": "川菜",
+        "Discount": [{
+            "data": "满20减十",
+            "num": 2
+          },
+          {
+            "data": "免配送费",
+            "num": 1
+          }
+        ]
+      },
+      {
+        "id": "0002",
+        "imgUrl": "//gw3.alicdn.com/bao/uploaded/i2/1967263602/O1CN011cTl5JZPB3bkK6k_!!1967263602.jpg_210x210.jpg",
+        "name": "豆芽商铺",
+        "fraction": 4,
+        "monthlySale": 123,
+        "chargingFee": "50",
+        "distributionFee": "0",
+        "category": "川菜",
+        "Discount": [{
+            "data": "满20减十",
+            "num": 2
+          },
+          {
+            "data": "免配送费",
+            "num": 1
+          }
+        ]
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//img.alicdn.com/imgextra/i3/177950022/TB2tbQzxljTBKNjSZFDXXbVgVXa_!!0-saturn_solar.jpg_210x210.jpg",
+        "name": "咱家面粉",
+        "fraction": 3.5,
+        "monthlySale": 256,
+        "chargingFee": "160",
+        "distributionFee": "0",
+        "category": "粮油类",
+        "Discount": [{
+            "data": "满100减五十",
+            "num": 3
+          },
+          {
+            "data": "免配送费",
+            "num": 1
+          }
+        ]
+      },
+      {
+        "id": "0004",
+        "imgUrl": "//img.alicdn.com/imgextra/i2/96583366/TB2f0TPbwTqK1RjSZPhXXXfOFXa_!!0-saturn_solar.jpg_210x210.jpg",
+        "name": "辣椒市场",
+        "fraction": 2.7,
+        "monthlySale": 16,
+        "chargingFee": "30",
+        "distributionFee": "0",
+        "category": "调味品",
+        "Discount": [{
+          "data": "买二斤，送一斤",
+          "num": 3
+        },
+        {
+          "data": "免配送费",
+          "num": 1
+        }
+        ]
+      },
+        {
+        "id" : "0005",
+        "imgUrl": "//gw.alicdn.com/imgextra/i4/162/TB23VjJvChlpuFjSspkXXa1ApXa_!!162-2-luban.png_140x10000.jpg_.webp",
+        "name": "鸭禽蛋类",
+        "fraction": 3.5,
+        "monthlySale": 256,
+        "chargingFee": "160",
+        "distributionFee": "0",
+        "category": "肉禽类",
+        "Discount": [{
+            "data": "满100减五十",
+            "num": 3
+            },
+            {
+            "data": "免配送费",
+            "num": 1
+            }
+        ]
+        },
+        {
+          "id": "0006",
+          "imgUrl": "//img.alicdn.com/simba/img/TB1GHnCd6TpK1RjSZKPSuu3UpXa.jpg_270x270Q75s50.jpg_.webp",
+          "name": "国有超市",
+          "fraction": 4,
+          "monthlySale": 123,
+          "chargingFee": "50",
+          "distributionFee": "0",
+          "category": "川菜",
+          "Discount": [
+            {
+              "data": "满20减十",
+              "num": 2
+            },
+            {
+              "data": "免配送费",
+              "num": 1
+            }
+          ]
+        }
+    ]
+}

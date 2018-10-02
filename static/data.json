@@ -1,0 +1,146 @@
+{
+    "good":{
+        "tablist": [
+            {
+                "name": "蔬菜类",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1VEfqllHH8KJjy0FbXXcqlpXa-375-375.jpg_140x10000Q75.jpg_.webp"
+            },
+            {
+                "name": "肉禽类",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1foIblf2H8KJjy0FcXXaDlFXa-375-375.jpg_140x10000Q75.jpg_.webp"
+            },
+            {
+                "name": "熟食类",
+                "imgUrl": "//gw.alicdn.com/imgextra/i2/7/TB2Bz3yzElnpuFjSZFjXXXTaVXa_!!7-2-luban.png_140x10000.jpg_.webp"
+            },
+            {
+                "name": "水产类",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1oasFlb_I8KJjy1XaXXbsxpXa-375-375.jpg_140x10000Q75.jpg_.webp"
+            },
+            {
+                "name": "粮油类",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1mEbWD1SSBuNjy0FlXXbBpVXa-800-800.jpg_140x10000Q75.jpg_.webp"
+            },
+            {
+                "name": "调味品",
+                "imgUrl": "//gw.alicdn.com/imgextra/i1/43/TB2sp9Ll2BNTKJjSszbXXaFrFXa_!!43-2-luban.png_140x10000.jpg_.webp"
+            },
+            {
+                "name": "水果类",
+                "imgUrl": "http://gw.alicdn.com/tfs/TB1HDQFlcLJ8KJjy0FnXXcFDpXa-375-375.jpg_140x10000Q75.jpg_.webp"
+            },
+            {
+                "name": "糕点类",
+                "imgUrl": "//gw.alicdn.com/imgextra/i4/66/TB2mCaqaBbM8KJjSZFFXXaynpXa_!!66-2-luban.png_140x10000.jpg_.webp"
+            },
+            {
+                "name": "坚果类",
+                "imgUrl": "//gw.alicdn.com/imgextra/i1/TB1jtMmOVXXXXXQXXXXXXXXXXXX_!!0-item_pic.jpg_140x10000Q75.jpg_.webp"
+            },
+            {
+                "name": "干货类",
+                "imgUrl": "//gw.alicdn.com/tps/TB1Klx_KFXXXXXLXVXXXXXXXXXX-375-375.jpg_140x10000Q75.jpg_.webp"
+            }
+        ],
+        "twoshow": [
+            {
+                "title": "量贩批发",
+                "desc" : "量大从优，免配送费",
+                "goBuy": "立即抢购>",
+                "imgurl": "https://fuss10.elemecdn.com/d/d4/16ff085900d62b8d60fa7e9c6b65dpng.png?imageMogr/format/webp/thumbnail/!240x160r/gravity/Center/crop/240x160/",
+                "url":"#"
+            },
+            {
+                "title": "限量批发",
+                "desc" : "搭配齐全，种类繁多",
+                "goBuy": "去看看>",
+                "imgurl": "https://fuss10.elemecdn.com/b/e1/0fa0ed514c093a7138b0b9a50d61fpng.png?imageMogr/format/webp/thumbnail/!240x160r/gravity/Center/crop/240x160/",
+                "url": "#"
+            }
+        ],
+        "carousel":[
+            {
+              "url": "https://fuss10.elemecdn.com/6/bb/1c3ed8229a2226218bf78a8b919e9jpeg.jpeg?imageMogr/format/webp/thumbnail/568x/"
+            },
+            {
+              "url": "https://fuss10.elemecdn.com/4/54/8692857bba9ec96a2e0b1778ccccfjpeg.jpeg?imageMogr/format/webp/thumbnail/568x/"
+            }
+        ],
+        "recommendComprehensive": [
+            {
+                "id": "0001",
+                "imgUrl": "//img.alicdn.com/simba/img/TB1GHnCd6TpK1RjSZKPSuu3UpXa.jpg_270x270Q75s50.jpg_.webp",
+                "name": "国有超市",
+                "fraction": 4,
+                "monthlySale": 123,
+                "chargingFee": "50",
+                "distributionFee": "0",
+                "category": "川菜",
+                "Discount": [
+                    {
+                        "data": "满20减十",
+                        "num": 2
+                    },
+                    {
+                        "data": "免配送费",
+                        "num": 1
+                    }
+                ]
+            },
+            {
+                "id": "0002",
+                "imgUrl": "//gw3.alicdn.com/bao/uploaded/i2/1967263602/O1CN011cTl5JZPB3bkK6k_!!1967263602.jpg_210x210.jpg",
+                "name": "豆芽商铺",
+                "fraction": 4,
+                "monthlySale": 123,
+                "chargingFee":"50",
+                "distributionFee":"0",
+                "category":"川菜",
+                "Discount": [
+                    {
+                        "data": "满20减十",
+                        "num": 2
+                    },
+                    {
+                        "data": "免配送费",
+                        "num":1
+                    }
+                ]
+            },
+            {
+              "id": "0003",
+              "imgUrl": "//img.alicdn.com/imgextra/i3/177950022/TB2tbQzxljTBKNjSZFDXXbVgVXa_!!0-saturn_solar.jpg_210x210.jpg",
+              "name": "咱家面粉",
+              "fraction": 3.5,
+              "monthlySale": 256,
+              "chargingFee": "160",
+              "distributionFee": "0",
+              "category": "粮油类",
+              "Discount": [{
+                  "data": "满100减五十",
+                  "num": 3
+                },
+                {
+                  "data": "免配送费",
+                  "num": 1
+                }
+              ]
+            },
+            {
+                "id": "0004",
+                "imgUrl": "//img.alicdn.com/imgextra/i2/96583366/TB2f0TPbwTqK1RjSZPhXXXfOFXa_!!0-saturn_solar.jpg_210x210.jpg",
+                "name": "辣椒市场",
+                "fraction": 2.7,
+                "monthlySale": 16,
+                "chargingFee": "30",
+                "distributionFee": "0",
+                "category": "调味品",
+                "Discount": [{
+                    "data": "买二斤，送一斤",
+                    "num": 3
+                }
+                ]
+            }
+        ]
+    }
+}

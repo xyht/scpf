@@ -2,6 +2,7 @@
   <div id="app">
       <keep-alive>
         <router-view/>
+        
       </keep-alive>
     <div v-show="footShow" class="myFoot">
       <router-link to="/" class="tabTwo">
@@ -34,6 +35,7 @@
 
 <script>
 import myHeader from './components/myHeader/myHeader'
+// ls
 export default {
   data () {
     return {
